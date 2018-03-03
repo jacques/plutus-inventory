@@ -3,7 +3,9 @@
 [![Author](http://img.shields.io/badge/author-@jacques-blue.svg?style=flat-square)](https://twitter.com/jacques)
 [![Software License](https://img.shields.io/badge/license-MPLv2-brightgreen.svg?style=flat-square)](LICENSE)
 
-Code for managing an inventory in Plutus.
+Code for managing an inventory in Plutus.  It includes some fufillment components to
+track delivery from central store and track stock levels for various items (i.e.
+card stock, sim cards, etc.).
 
 ---
 
